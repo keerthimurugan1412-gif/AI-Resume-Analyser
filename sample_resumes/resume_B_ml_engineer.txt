@@ -1,0 +1,25 @@
+Arjun Verma
+Aspiring Machine Learning Engineer
+
+SKILLS
+Python, Machine Learning, scikit-learn, Pandas, NumPy, SQL, Git, FastAPI, Docker
+
+EDUCATION
+B.Tech in Computer Science, 2023
+
+PROJECTS
+- Trained a customer-churn prediction model using scikit-learn, achieving 88% accuracy.
+- Deployed the trained model as a REST API using FastAPI.
+- Containerized the API with Docker for consistent deployment across environments.
+- Used Pandas and NumPy for feature engineering on a 100k-row transaction dataset.
+
+EXPERIENCE
+Machine Learning Intern, DataForge Labs (8 months)
+- Built and maintained a scikit-learn pipeline for a lead-scoring model.
+- Used Git and GitHub for version control across a 4-person team.
+- Queried production data with SQL for model training and evaluation.
+
+NOTE FOR DEMO USE
+This is a plain-text sample resume included for demonstration and testing only.
+To test the actual application, save this content into a PDF or DOCX file
+and upload it, since the system is built to accept only PDF and DOCX resumes.

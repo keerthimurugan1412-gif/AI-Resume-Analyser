@@ -1,0 +1,24 @@
+Meera Nair
+Aspiring NLP Engineer
+
+SKILLS
+Python, NLP, spaCy, Transformers, Sentence Transformers, PyTorch, Machine Learning, Git
+
+EDUCATION
+M.Sc. in Computer Science (AI specialization), 2024
+
+PROJECTS
+- Built a resume-to-job semantic search tool using Sentence Transformers embeddings.
+- Fine-tuned a Transformers-based text classifier for support-ticket categorization.
+- Used spaCy for named-entity recognition on legal documents.
+- Implemented a PyTorch training loop for a custom sentiment-analysis model.
+
+EXPERIENCE
+NLP Research Assistant, University AI Lab (1 year)
+- Trained and evaluated Machine Learning models for text classification tasks.
+- Managed experiment code and results using Git.
+
+NOTE FOR DEMO USE
+This is a plain-text sample resume included for demonstration and testing only.
+To test the actual application, save this content into a PDF or DOCX file
+and upload it, since the system is built to accept only PDF and DOCX resumes.

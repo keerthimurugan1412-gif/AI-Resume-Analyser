@@ -1,0 +1,7 @@
+test_resume,expected_top_role,actual_top_role,comments
+Resume A (Data Analyst profile - Python/SQL/Excel/Power BI/Tableau),Data Analyst,,
+Resume B (ML Engineer profile - scikit-learn/FastAPI/Docker),Machine Learning Engineer,,
+Resume C (NLP Engineer profile - spaCy/Transformers/PyTorch),NLP Engineer,,
+Resume D (empty/blank resume - edge case),None (should show a friendly error),,
+Resume E (scanned image-only PDF - edge case),None (should show 'no readable text' error),,
+Resume F (resume with C++/C#/.NET listed - symbol-preservation check),Python Developer or closest match,,

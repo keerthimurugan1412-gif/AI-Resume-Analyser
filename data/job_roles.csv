@@ -1,0 +1,8 @@
+job_role,required_skills,description
+Data Analyst,"Python,SQL,Excel,Pandas,Power BI,Tableau,NumPy,Matplotlib","Analyzes business data, builds dashboards and reports, and uses SQL and spreadsheet tools to find insights that support decision making."
+Machine Learning Engineer,"Python,Machine Learning,scikit-learn,FastAPI,Docker,SQL,Pandas,NumPy,Git","Builds, trains, and deploys machine learning models into production systems, and maintains APIs and pipelines that serve predictions."
+AI Engineer,"Python,Deep Learning,LLM,RAG,REST API,PyTorch,Docker,Prompt Engineering,FastAPI","Designs and integrates AI systems including large language models, retrieval pipelines, and intelligent APIs into applications."
+NLP Engineer,"Python,NLP,Transformers,spaCy,Sentence Transformers,Machine Learning,PyTorch,NLTK","Builds text-processing systems such as classifiers, chatbots, and semantic search using NLP libraries and transformer models."
+Computer Vision Engineer,"Python,OpenCV,CNN,YOLO,Deep Learning,TensorFlow,PyTorch,Computer Vision","Develops systems that interpret images and video, including object detection, classification, and tracking models."
+Python Developer,"Python,Flask,Django,REST API,SQL,Git,GitHub,Docker","Builds backend applications, APIs, and services primarily using Python web frameworks and relational databases."
+Data Scientist,"Python,Machine Learning,Pandas,NumPy,SQL,scikit-learn,Deep Learning,Matplotlib,Seaborn","Explores data, builds predictive models, and communicates statistical findings to guide business and product decisions."

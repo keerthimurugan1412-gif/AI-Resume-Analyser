@@ -1,0 +1,54 @@
+skill,category,aliases
+Python,Programming,python3
+Java,Programming,
+C++,Programming,cpp
+C#,Programming,csharp
+JavaScript,Programming,js
+R,Programming,r language
+SQL,Databases,structured query language
+MySQL,Databases,
+PostgreSQL,Databases,postgres
+MongoDB,Databases,mongo
+SQLite,Databases,
+Pandas,Data Handling,
+NumPy,Data Handling,numpy
+Excel,Data Handling,ms excel|microsoft excel
+Power BI,Data Handling,powerbi
+Tableau,Data Handling,
+Machine Learning,ML,ml
+Deep Learning,ML,dl
+scikit-learn,ML,sklearn
+TensorFlow,ML,tf
+PyTorch,ML,torch
+Keras,ML,
+XGBoost,ML,
+NLP,NLP,natural language processing
+spaCy,NLP,spacy
+NLTK,NLP,
+Transformers,NLP,hugging face|huggingface
+Sentence Transformers,NLP,sentence-transformers
+LLM,AI,large language model
+RAG,AI,retrieval augmented generation
+Prompt Engineering,AI,
+OpenCV,Computer Vision,cv2
+CNN,Computer Vision,convolutional neural network
+YOLO,Computer Vision,
+Computer Vision,Computer Vision,cv
+FastAPI,Backend,fast api
+Flask,Backend,
+Django,Backend,
+REST API,Backend,rest apis|restful api
+Docker,Cloud & DevOps,
+Kubernetes,Cloud & DevOps,k8s
+AWS,Cloud & DevOps,amazon web services
+Azure,Cloud & DevOps,microsoft azure
+GCP,Cloud & DevOps,google cloud
+MLflow,Cloud & DevOps,ml flow
+Git,Tools,
+GitHub,Tools,
+Streamlit,Tools,
+Jupyter,Tools,jupyter notebook
+Linux,Tools,
+Matplotlib,DataViz,
+Seaborn,DataViz,
+Plotly,DataViz,

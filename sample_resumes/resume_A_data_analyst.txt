@@ -1,0 +1,25 @@
+Priya Sharma
+Aspiring Data Analyst
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, Tableau, Matplotlib, Git
+
+EDUCATION
+B.Sc. in Statistics, 2024
+
+PROJECTS
+- Built an interactive Power BI dashboard analyzing retail sales trends across regions.
+- Cleaned and analyzed a 50,000-row customer dataset using Pandas and NumPy.
+- Wrote SQL queries to extract and join data from a PostgreSQL database for reporting.
+- Created Matplotlib visualizations summarizing quarterly KPIs for stakeholders.
+
+EXPERIENCE
+Data Analyst Intern, BrightRetail Co. (6 months)
+- Automated weekly Excel reports, reducing manual reporting time by 40%.
+- Used Tableau to present findings to the marketing team.
+
+NOTE FOR DEMO USE
+This is a plain-text sample resume included for demonstration and testing only.
+To test the actual application, save this content into a PDF or DOCX file
+(e.g. paste into Word and "Save As" .docx, or print to PDF) and upload it,
+since the system is built to accept only PDF and DOCX resumes.
